@@ -1,0 +1,7 @@
+{
+  "name": "Behter Ellaj",
+  "description": "Premium Pakistani digital healthcare platform connecting patients with verified doctors, hospitals, specialties, and healthcare services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
